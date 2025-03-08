@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emilHannes
 - 👀 I’m interested in microcontrollers
-- 🌱 I’m currently learning coding, electronics
+- 🌱 I’m currently learning C, C++, python & electronics
 - 💞️ I’m looking to collaborate on nothing
 - 📫 reach me via discord (linked to profile)
 - 😄 Pronouns: he/him
