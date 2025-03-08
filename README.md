@@ -2,7 +2,7 @@
 - 👀 I’m interested in microcontrollers
 - 🌱 I’m currently learning coding, electronics
 - 💞️ I’m looking to collaborate on nothing
-- 📫 Reach me via messenger (my facebook is linked on my profile)
+- 📫 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i started learning this in september 2024
 
