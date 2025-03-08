@@ -2,7 +2,7 @@
 - 👀 I’m interested in microcontrollers
 - 🌱 I’m currently learning C, C++, python & electronics
 - 💞️ I’m looking to collaborate on nothing
-- 📫 reach me via discord (linked to profile)
+- 📫 reach me via microsoft teams (linked to profile)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i started learning this in september 2024
 
