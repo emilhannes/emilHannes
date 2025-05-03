@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emilHannes
 - 👀 I’m interested in microcontrollers
 - 🌱 I’m currently learning C, C++, python & electronics
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on nothing currently
 - 📫 reach me via microsoft teams (linked to profile)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i started learning coding and electronics sometime in september 2024
