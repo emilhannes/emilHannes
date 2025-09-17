@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emilHannes
+- 👋 Hi, I’m @emilware
 - 👀 I’m interested in hardware and linux
 - 🌱 I’m currently learning C++, debian linux & electronics
 - 📫 reach me via microsoft teams (linked to profile)
