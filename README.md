@@ -1,14 +1,7 @@
 - 👋 Hi, I’m @emilHannes
-- 👀 I’m interested in microcontrollers
-- 🌱 I’m currently learning C, C++, python & electronics
-- 💞️ I’m looking to collaborate on nothing currently
+- 👀 I’m interested in hardware and linux
+- 🌱 I’m currently learning C++, debian linux & electronics
 - 📫 reach me via microsoft teams (linked to profile)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: i started learning coding and electronics sometime in september 2024
 
-I'm going to put all of my projects and just overall stuff on here to be open source and make a portfolio.
-I'm am a student so unless it's summer I might have difficulty making projects and expanding my GitHub. 
-<!---
-emilHannes/emilHannes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm putting most of my projects on here for anyone, I'm still learning so nothing major
